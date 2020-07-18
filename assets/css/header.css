@@ -1,0 +1,47 @@
+.logo-text {
+    font-size: 0;
+    margin: 0;
+}
+
+.logo-img {
+    height: 50px;
+    width: 90px;
+    margin-top: 15px;
+}
+
+nav.nav-wrapper .nav-extend {
+    min-height: 80px;
+}
+
+.navbar-fixed {
+    position: absolute;
+    height: 80px;
+}
+
+.navbar {
+    background: transparent;
+}
+
+.nav_color {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+nav, nav i,
+nav [class^="mdi-"], nav [class*="mdi-"],
+nav i.material-icons, nav a.button-collpase i {
+  height: 80px;
+  line-height: 80px;
+}
+
+.side-nav {
+  background: url('../img/menu_mobile.png');
+}
+
+.side-nav li a {
+    color: #fff;
+}
+
+.side-nav li a:hover {
+    border-left: 3px solid #2dc7d0;
+}
+

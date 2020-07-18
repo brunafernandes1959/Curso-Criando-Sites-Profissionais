@@ -1,0 +1,22 @@
+.depoimentos {
+    background-image: url('../img/bg_sobre.png');
+    overflow: hidden;
+}
+
+.depoimentos img {
+    width: 150px;
+}
+
+.depoimentos p {
+    margin-top: 20px;
+}
+
+.depoimentos h5 {
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.depoimentos i {
+    color: #2dc7d0;
+    margin-bottom: 15px;
+}

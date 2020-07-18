@@ -1,0 +1,30 @@
+.servicos {
+    background-image: url('../img/bg_sobre.png');
+}
+
+.servicos .card-content h3 {
+    font-size: 1.8rem;
+    color: #20B2AA;
+}
+
+.servicos .card-content p {
+    font-size: 1rem;   
+}
+
+.modal h5 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #20B2AA;
+}
+
+.modal p {
+    margin-bottom: 15px;
+}
+
+.btn-horario {
+    padding-top: 15px;
+}
+
+.dia-aula {
+    font-weight: 600;
+}

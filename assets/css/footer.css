@@ -1,0 +1,14 @@
+.rodape {
+    overflow: hidden;
+    padding: 15px 0;
+}
+
+.rodape p {
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.rodape i {
+   margin-right: 10px !important;
+}
+

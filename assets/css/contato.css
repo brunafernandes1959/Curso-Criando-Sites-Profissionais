@@ -1,0 +1,57 @@
+.contato {
+    background-image: url('../img/bg_sobre.png');
+}
+
+.contato  h4 {
+    font-size: 1.2rem;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.contato p {
+    font-size: 1.1rem;
+}
+
+.contato .btn.btn-floating.blue-logo {
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.contato .mapa {
+    min-height: 565px;
+}
+
+.contato .mapa iframe {
+    width: 100%;
+    min-height: 565px;
+    border: none;
+}
+
+.contato .informacoes {
+    background-image: url('../img/bg_contato.png');
+    min-height: 565px;
+    padding: 25px;
+}
+
+.contato .informacoes p .telefones{
+    margin-top: 10px;
+}
+
+.contato .formulario {
+    background-image: url('../img/bg_contato2.png');
+    min-height: 565px;
+    padding: 25px;
+}
+
+.contato label {
+    color: #000;
+}
+
+.contato textarea {
+    padding: 15px 0 0 0;
+}
+
+.links_contato {
+    display: flex;
+    justify-content: center;
+}

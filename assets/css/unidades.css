@@ -1,0 +1,11 @@
+.unidades {
+    background-image: url('../img/bg-unidades.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.unidades article p {
+    line-height: 1.8rem;
+}
+

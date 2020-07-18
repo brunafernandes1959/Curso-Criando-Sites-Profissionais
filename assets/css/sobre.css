@@ -1,0 +1,30 @@
+.sobre {
+    background-image: url('../img/bg_sobre.png');
+}
+
+.sobre p {
+    text-align: justify;
+}
+
+.sobre .missao-visao-valores {
+    margin-top: 40px;
+    padding: 20px 0;
+}
+
+.sobre .missao-visao-valores .icon {
+    color: #fff;
+}
+
+.sobre .missao-visao-valores h3 {
+    font-size: 1.8rem;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.sobre .missao-visao-valores p {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 1.1rem;
+}
+

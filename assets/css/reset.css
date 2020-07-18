@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+a:hover{
+    opacity: 1;
+}
+
+html, body {
+    height: 100%;
+}
+
+.bloco {
+    min-height: 100%;
+
+    overflow: hidden;
+}
+
+.blue-logo {
+    background-color: #2dc7d0;
+}
+
+/* Titulos e Parágrafos das Sections */
+.titulo {
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.titulo::after {
+    content: '';
+    display: block;
+    width: 100px;
+    border-top: 2px solid #2dc7d0;
+    margin: 20px auto;
+}
+
+.paragrafo {
+    text-align: center;
+    line-height: 1.8rem;
+    font-size: 1.1rem;
+}

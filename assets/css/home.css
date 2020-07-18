@@ -1,0 +1,33 @@
+.home {
+    background-image: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: mudarbg 30s infinite;
+}
+
+.banner h2 {
+    padding-top: 6rem;
+    font-size: 2rem;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.banner p {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    padding-bottom: 3rem;
+}
+
+/* HOME - ANIMAÇÃO SLIDES */
+@keyframes mudarbg {
+    35% {background-image: url('../img/bg2.jpg');}
+    70% {background-image: url('../img/bg3.jpg');}
+    100%{background-image: url('../img/bg.jpg');} 
+}
+
+
+
+
+
+
+
